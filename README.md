@@ -1,8 +1,8 @@
-# ERC-1155_NFT_creation_demo
+# ERC-1155_NFT_creation
 how to create NFT's using ERC1155, create different URIs for every NFT and pay out part of provision at NFT sale to third party
 ## Installation procedure
 ```shell
-git clone git clone https://github.com/matprime/ERC-1155-NFT-demo
+git clone git clone https://github.com/websoft-ie/ERC1155NFT
 cd ERC-1155-NFT-demo
 npm install
 ```
